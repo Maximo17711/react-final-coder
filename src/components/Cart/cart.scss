@@ -1,0 +1,32 @@
+.item-cart {
+  display: flex;
+  background-color: white;
+
+  .text-cart {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+    color: rgb(50, 50, 204);
+    font-size: x-large;
+  }
+}
+
+.background-color{
+  background-color: white;
+}
+
+.total {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+    color:rgb(50, 50, 204);
+    font-size: xx-large;
+}
+
+.item-cart-img {
+  width: 40%;
+  display: flex;
+
+  img {
+    width: 40%;
+    margin: auto;
+  }
+}

@@ -1,0 +1,67 @@
+.saludo {
+    text-align: center;
+    color: rgb(38, 38, 202);
+    font-weight: 500;
+    font-size: 5rem;
+}
+
+@media (min-width: 576px) { 
+    
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 1.5rem;
+    }
+ }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 0px) { 
+    
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 1.5rem;
+    }
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 2rem;
+    }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 2.5rem;
+    }
+ }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 5rem;
+    }
+ }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { 
+    .saludo {
+        text-align: center;
+        color: rgb(38, 38, 202);
+        font-weight: 500;
+        font-size: 5rem;
+    }
+ }

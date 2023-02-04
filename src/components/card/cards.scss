@@ -1,0 +1,26 @@
+.card {
+  margin: auto;
+  margin-bottom: 2rem;
+  transition: 1000ms;
+
+  &:hover {
+    transition: 1000ms;
+    filter: drop-shadow(2px 4px 25px black);
+  }
+}
+
+.btn-add-cart {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-add-cart2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ver-detalle {
+  text-decoration: none;
+  padding-bottom: 1rem;
+}

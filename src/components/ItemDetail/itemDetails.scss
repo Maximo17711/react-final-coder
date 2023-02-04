@@ -1,0 +1,14 @@
+
+  .card-detail {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img-detail{
+    object-fit: contain !important;
+  }
+
+  .add-to-cart {
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
