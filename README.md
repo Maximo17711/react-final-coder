@@ -4,7 +4,7 @@
 
 ### Pasos para reproducir la APP:
 1. Clonar el repo(https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
-   ```Repositorio: https://github.com/Maximo17711/entrega-react/tree/master```
+   ```Repositorio: https://github.com/Maximo17711/react-final-coder```
 2. Hacer un npm i
 3. Hacer un npm start
 
